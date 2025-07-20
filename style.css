@@ -141,3 +141,12 @@ h3{
     position: relative;
     top: 3px;
 }
+.lyrics-loading {
+    color: #888;
+    text-align: center;
+    padding: 20px;
+}
+
+.fa-spinner {
+    margin-right: 10px;
+}
